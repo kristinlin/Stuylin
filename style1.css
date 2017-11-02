@@ -1,0 +1,68 @@
+/* 
+Kristin Lin
+SoftDev pd09
+*/
+
+/* overall page*/
+body {
+    background-color: lightblue;
+    border-bottom: 50px solid lightblue;
+    border-right: 50px solid lightblue;
+    border-left: 50px solid lightblue;
+    font-size: 75%;
+}
+
+/* "STAR WARS" */
+h1 {
+    background-color: #FBD700;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 175px;
+    font-stretch: expanded;
+}
+
+/* "A NEW HOPE" */
+h2 {
+    background-color: darkgreen;
+    color: white;
+    font-size: 38px;
+    border-right: 100px solid lightblue;
+    border-left: 100px solid lightblue; 
+    text-transform: uppercase;
+}
+
+/* "DRAMATIS PERSONAE" */
+h3 {
+    background-color: green;
+    border-right: 100px solid lightblue;
+    border-left: 100px solid lightblue;     
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+/* list */
+ul {
+    border-right: 100px solid lightblue;
+    border-left: 100px solid lightblue;
+    font-size: 16px;
+}
+
+/* links */
+a {
+    color: indigo;
+    font-size: 16px;
+}
+
+/* paragraph */
+p {
+    border-right: 150px solid lightblue;
+    border-left: 150px solid lightblue;
+    border-bottom: 90px solid lightblue;
+    color: black;
+    font-size: 16px;
+ 
+}
+
