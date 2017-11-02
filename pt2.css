@@ -1,0 +1,65 @@
+/*
+Kristin Lin
+SoftDev pd09
+*/
+
+body {
+    background-color: #85AB38;
+    border-left: 50px solid #85AB38;
+    border-right: 50px solid #85AB38;
+}
+
+#heading {
+    color: gold;
+    background-color: #3E1E87;
+    font-size: 30px;
+    text-indent: 15px;
+    line-height: 80%;
+}
+
+h1 {
+    background-color: orangered;
+    color: white;
+    font-size: 110px;
+    letter-spacing: 13px;
+    line-height: 55%;
+    border-bottom: 50px solid #85AB38;
+}
+
+.navzone {
+    border-left: 270px solid #85AB38;
+    border-right: 270px solid #85AB38;
+    border-bottom: 25px solid #85AB38;
+}
+
+.list {
+    color: white;
+}
+
+#link {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+.content {
+    border-left: 170px solid #85AB38;
+    border-right: 170px solid #85AB38;
+}
+
+#stuffing {
+    font-family: Cochin, Georgia, Garamond, ‘Times New Roman’, Times, serif;
+    color: white;
+}
+
+p {
+    border-bottom: 100px solid #85AB38;
+    border-left: 25px solid #85AB38;
+    border-right: 25px solid #85AB38;
+    text-indent: 45px;
+}
+
+.extreme {
+    font-size: 13px;
+}
+
+
