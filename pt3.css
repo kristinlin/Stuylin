@@ -1,0 +1,84 @@
+
+body {
+    padding: 30px;
+}
+
+#heading {
+    color: #FCBF49;
+    background-color: #003049;
+    line-height: 30px;
+    text-indent: 15px;
+}
+
+.mainq {
+    color: white;
+    background-image: url("witch.gif");
+    padding: 75px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#maina {
+    font-style: italic;
+    font-size: 18px;
+    background-color: rgba(0, 28, 73, 0.30);
+}
+
+.other {
+    padding: 35px;
+}
+
+ol {
+    border-left: 10px solid #D62828;
+}
+
+ul {
+    list-style-image: url("slippers.png");
+    line-height: 10px;
+    font-size: 19px;
+    border-bottom: 25px solid white;
+}
+
+#crop {
+    border-left: 100px solid white;
+    text-align: right;
+    font-size: 30px;
+    font-style: italic;
+    color: 
+}
+
+a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    color: #003049;
+}
+
+a:visited {
+    color: #F75C03;
+}
+
+a:hover {
+    font-size: 18px;
+}
+
+.prose {
+    font-family: ‘Lucida Grande’, ‘Lucida Sans Unicode’, Lucida, Verdana, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    border-left: 40px solid white;
+}
+
+.mid {
+    border-top: 20px solid white;
+    border-bottom: 20px solid white;
+    border-left: 50px solid white;
+    border-right: 50px solid white;
+    background-color: rgba(247, 92, 3, .90);
+    color: #EAE2B7;
+    font-size: 18px;
+    padding: 28px;
+    font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono;
+}
+
